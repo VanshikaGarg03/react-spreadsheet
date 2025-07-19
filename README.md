@@ -16,6 +16,12 @@ A front-end-only spreadsheet interface built using React, Tailwind CSS, and `rea
 - 💾 Per-sheet data saved using `localStorage`
 - 🔧 ESLint + Prettier formatting enabled
 - 🧠 Clean React component structure
+- 
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- React-Table
 
 ## 🛠️ Setup Instructions
 
@@ -24,3 +30,13 @@ git clone https://github.com/VanshikaGarg03/react-spreadsheet.git
 cd react-spreadsheet
 npm install
 npm start
+
+📄 License
+Open-source under MIT License.
+
+🙋‍♀️ Author
+Vanshika Garg
+
+GitHub: [@VanshikaGarg03](https://github.com/VanshikaGarg03)
+
+LinkedIn: [vanshika-garg](https://www.linkedin.com/in/vanshika-garg-2ba83b25a/)
